@@ -1,0 +1,30 @@
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Disallow: /analysis
+Disallow: /tapestry
+Disallow: /williams
+Disallow: /~rdn
+Disallow: /egg-beta
+Disallow: /gaiamind
+Disallow: /status
+Disallow: /egghosts
+Disallow: /data
+Disallow: /bsktobsrv
+Disallow: /meyer
+Disallow: /music
+Disallow: /notes
+Disallow: /old
+Disallow: /music
+Disallow: /PA_pres
+Disallow: /pseudoeggs.dir
+Disallow: /music
+Disallow: /quotes
+Disallow: /realeggs.dir
+Disallow: /rick
+Disallow: /roger
+Disallow: /shoup
+
+
+Sitemap: https://global-mind.org/sitemap.xml
+Sitemap: http://global-mind.org/sitemap.xml
